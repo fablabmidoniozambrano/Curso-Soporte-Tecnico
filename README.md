@@ -1,8 +1,8 @@
-# Curso-Soporte-Tecnico
+## **Curso Soporte Técnico**
 
-Reparacion de computadoras
+# **Reparacion de computadoras**
 
-APLICAR NOCIONES BASICAS DE ELECTRICIDAD
+### **APLICAR NOCIONES BASICAS DE ELECTRICIDAD**
 
 Electricidad
 Tipos de electricidad
