@@ -10,9 +10,8 @@
 * Corriente eléctrica (amperio) 
 * Tensión eléctrica
 * Resistencia eléctrica
-* Corriente eléctrica
 * Ley de OHM
 * Circuito Eléctrico
 * Representación gráfica de los circuitos
-* Multitester
+* Multimetro(Tester)
 * Código de colores 
